@@ -1,2 +1,2 @@
-[nix]
-channel = "stable-23_11"
+language = "cpp"
+run = "g++ -o main arrayStrings/1768.cpp && ./main"
